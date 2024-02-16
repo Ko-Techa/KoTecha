@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Stud58
-- 👀 I’m interested in web application development, robotics, data science
-- 🌱 I’m currently learning web development, artificial inteligent
-- 💞️ I’m looking to collaborate on application development, robotics 
+- 👋 Hi, I’m @Stud58.
+- 👀 I’m interested in Data Science, Robotics and Machine Learning.
+- 🌱 I’m currently learning web app development, artificial inteligent.
+- 💞️ I’m looking to collaborate on application development, robotics, Machine learning and Data science. 
 - 📫 How to reach me allyjoe5822@gmail.com 
 
 <!---
