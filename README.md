@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stud58.
+- 👋 Hi, I’m @KoTecha.
 - 👀 I’m interested in Data Science, Robotics and Machine Learning.
 - 🌱 I’m currently learning Embedded systems and artificial inteligent.
 - 💞️ I’m looking to collaborate on application development, robotics, Machine learning and Data science. 
