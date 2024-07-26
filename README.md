@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KoTecha.
-- 👀 I’m interested in Data Science, Robotics and Machine Learning.
-- 🌱 I’m currently learning Embedded systems and artificial inteligent.
-- 💞️ I’m looking to collaborate on application development, robotics, Machine learning and Data science. 
+- 👀 I’m interested in Data Science, AI and Machine Learning.
+- 🌱 I’m currently learning Embedded systems and Artificial Inteligent.
+- 💞️ I’m looking to collaborate on AI, Machine learning and Data science. 
 - 📫 How to reach me josephowuor565@gmail.com 
 
 <!---
