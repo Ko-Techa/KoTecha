@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KoTecha.
+- 👋 Hi, I’m @Joseph Owuor.
 - 👀 I’m interested in Data Science, AI and Machine Learning.
 - 🌱 I’m currently learning Embedded systems and Artificial Inteligent.
 - 💞️ I’m looking to collaborate on AI, Machine learning and Data science. 
